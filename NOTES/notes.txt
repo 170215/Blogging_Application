@@ -1,0 +1,6 @@
+when we give autowired for an object declaration of an interface but interfaces are not having any implementation
+so when we run the project their implmentation class is created dynamically that is called proxy classes.
+
+GenerationType.IDENTITY vs GenerationType.SEQUENCE vs GenerationType.AUTO
+------------------------------------------------------------------------------------
+https://ngdeveloper.com/generationtype-identity-vs-generationtype-sequence-vs-generationtype-auto/
